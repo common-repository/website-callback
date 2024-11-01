@@ -1,0 +1,43 @@
+#acumen_callfeedback{
+        color:white;
+}
+#acumen_callbutton,
+#acumen_callfeedback,
+#acumen_callnumber{
+        display:none;
+        font-size:17px;
+        padding:3px;
+        border:0;
+}
+#acumen_callnumber{
+        width:180px;
+}
+#acumen_callfeedback{
+        font-size:13px;
+        color:#f0f0f0;
+}
+#acumen_callbutton{
+        border-radius:3px;
+        margin-left:10px;
+        width:70px;
+        background-color:#36791c;
+        color:white;
+        font-size:17px;
+        border:0
+}
+#acumen_call_container{
+        padding:11px 20px 11px 20px;
+        height:64px;
+        width:278px;
+        background-image:url(images/free_call_button_1.jpg);
+}
+
+.acumen_success{
+        font-weight:bold;
+        font-size:20px;
+        margin-bottom:8px;
+}
+.acumen_success,
+.acumen_success_sub{
+        color:white;
+}
